@@ -1,0 +1,5 @@
+# Exempt Node modules
+node_modules
+
+# Os Spefic
+.DS_Store
